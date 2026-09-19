@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "bef6d79a290d822e4a015ca6",
+  "owner": "ghc336199",
+  "repo": "page-8c6251185052291eea3ed08a",
+  "title": "Pikachu",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c6251185052291eea3ed08a",
+      "a": "Pikachu",
+      "b": "机场榜单Top1",
+      "entity": "Pikachu",
+      "brand": "Pikachu",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ed8682db9b06dd96580b520799a6a9a78243c8d5af1ae21fa0e60615b28a22e0",
+      "content": {
+        "primary_entity": "Pikachu",
+        "keyword1": "Pikachu",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，参考订阅导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比套餐流量与设备数，按年付可节省两个月费用。",
+          "AI_CLOSING_TITLE": "选对套餐再出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖每月 100GB、300GB 与 1000GB 流量，设备数从 3 台到 20 台，适合个人多端、流媒体与游戏加速以及小型团队协作场景。",
+          "AI_FEATURES_INTRO": "从流量、设备到线路，三个维度快速定位合适的订阅。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻度使用；旗舰版 300GB 覆盖流媒体与游戏；团队版 1000GB 支持多人共享。",
+          "AI_FEATURE_TEXT_2": "按设备数量选档：3 台选基础版，5 台选旗舰版，20 台选团队版，避免多设备频繁切换。",
+          "AI_FEATURE_TEXT_3": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Pikachu 提供多档海外加速订阅，按流量与设备数区分，方便个人和团队按需选择。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合轻度用户，旗舰版平衡流量与设备，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和预算，在基础版、旗舰版、团队版之间确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型，准备相应的订阅配置环境。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成基础设置后即可在支持设备上使用加速服务。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Pikachu 套餐速览",
+          "AI_FAQ_ANSWER_1": "在 Pikachu 的套餐页面可以看到基础版、旗舰版和团队版的详细权益。基础版适合轻度使用，旗舰版适合有流媒体和游戏加速需求的用户，团队版支持更多设备和更高流量。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时连接计算，切换设备时可先退出旧设备。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于用约十个月的费用覆盖全年。",
+          "AI_FAQ_ANSWER_4": "在对应客户端的订阅管理界面粘贴订阅链接并更新，即可同步节点与配置。不同客户端的导入步骤以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，普通线路节点池用于日常浏览。若主要使用游戏或实时应用，优先选择旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Pikachu 有哪些套餐可供选择？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "年付和月付价格有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅链接？",
+          "AI_FAQ_QUESTION_5": "哪种套餐适合游戏加速和流媒体？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "062c4879336228c700b378dbe80604cd6874743301f0fb030ad13d5dad879c75",
+    "sitemap.xml": "ea9c056cfcd6cb23549c3250027a8bbb4f9f51c7da803b446db42c3a6840998c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3b634cf465f0815a1c485937537b830487fa4248c583dc69d8adeb76f25e4bfc"
+}
